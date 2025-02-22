@@ -1,0 +1,10 @@
+celebrity-facial-recognition/
+├── dataset/
+│   └── celebrities/  # Folder for storing celebrity images
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model.py
+│   ├── recognizer.py
+│   ├── main.py
+├── requirements.txt
+├── README.md
