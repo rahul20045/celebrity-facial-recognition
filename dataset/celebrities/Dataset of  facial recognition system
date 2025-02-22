@@ -1,0 +1,11 @@
+dataset/
+└── celebrities/
+    ├── Brad_Pitt/
+    │   ├── img1.jpg
+    │   ├── img2.jpg
+    │   └── ...
+    ├── Angelina_Jolie/
+    │   ├── img1.jpg
+    │   ├── img2.jpg
+    │   └── ...
+    └── ...
